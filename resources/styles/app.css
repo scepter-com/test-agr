@@ -1,0 +1,52 @@
+html
+{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+.content
+{
+    width: 100%;
+    margin-top: 16px;
+
+}
+
+.form-create
+{
+    width: 100%;
+    border: 1px #ececec solid;
+    min-height: 350px;
+    border-radius: 12px;
+
+}
+.form-input-group
+{
+    margin-top: 16px;
+}
+.status-group
+{
+    margin-top: 16px;
+}
+.status
+{
+    color: #269a71;
+}
+.users-table
+{
+    margin-top: 50px;
+    width: 100%;
+    border: 1px #ececec solid;
+    min-height: 350px;
+    border-radius: 12px;
+
+}
+.user-row
+{
+    border-bottom: 1px #ececec solid;
+}
